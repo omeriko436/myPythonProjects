@@ -3,8 +3,8 @@ print("©All rights reserved by Omeriko436 INC.")
 print(" ")
 print("Enter the following calculation.")
 c = input("1 For +, 2 for -, 3 for x and 4 for /.")
-a = int(input("Enter the first number.")) #I made this whit int() because unless I do this it will just
-b = int(input("Enter the second number.")) #make the numbers next to them.
+a = int(input("Enter the first number.")) #I wrote this code with the "int()" command because if I didn't,
+b = int(input("Enter the second number.")) # it would just write the numbers side by side.
 
 if c == "1": #Addion
     r=a+b
