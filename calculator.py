@@ -1,5 +1,4 @@
-print("Calculator v0.1")
-print("©All rights reserved by Omeriko436 INC.")
+print("Calculator by omeriko436")
 print(" ")
 print("Enter the following calculation.")
 c = input("1 For +, 2 for -, 3 for x and 4 for /.")
