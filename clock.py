@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime
 
 while True:
-    print(datetime.datetime.now)
+    print(datetime.now)
