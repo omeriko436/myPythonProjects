@@ -1,4 +1,5 @@
-from datetime import datetime
+import datetime
 
 while True:
-    print(datetime.datetime.now)
+    time = datetime.datetime.now
+    print(time.strf(%c))
