@@ -22,3 +22,5 @@ else: #Wrong enter
     exit
 
 print(r)
+
+input(" ")
